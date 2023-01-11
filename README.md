@@ -34,7 +34,7 @@ $ npm start
 
 ## Screenshot
 
-![2022-05-19 (3)](https://user-images.githubusercontent.com/67522406/169548821-7f5656f9-4c2f-4d5f-84e0-351813549128.png)
+![2022-05-19 (3)](https://raw.githubusercontent.com/shambashib20/Fake-Shop-Ui/master/cart.png?token=GHSAT0AAAAAAB46M4MGGJ3FLVY7J6U6LKPIY56XMVA)
 
 ## Author
 
