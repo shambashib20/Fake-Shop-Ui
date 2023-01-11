@@ -97,7 +97,7 @@ const App = () => {
     </Badge>
   </StyledButton>
 
-  <Typography align="center" variant="h2">Welcome To FitMart</Typography>
+  <Typography align="center" variant="h2">Welcome To Fakemart</Typography>
   <Grid container spacing={3} >
     {
       data?.map(
